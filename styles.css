@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #009579;
+    background: #2e74de;
 }
 #container {
     max-width: 430px;
@@ -54,7 +54,7 @@ body {
 }
 .form a {
     font-size: 16px;
-    color: #009579;
+    color: #2e74de;
     text-decoration: none;
 }
 .form a:hover {
@@ -62,7 +62,7 @@ body {
 }
 .form input.button {
     color: #fff;
-    background: #009579;
+    background: #2e74de;
     font-size: 15px;
     font-weight: 500;
     letter-spacing: 1px;
@@ -71,14 +71,14 @@ body {
     transition: 0.4s;
 }
 .form input.button:hover {
-    background: #006653;
+    background: #1c5cba;
 }
 .signup {
     font-size: 17px;
     text-align: center;
 }
 .signup label {
-    color: #009579;
+    color: #2e74de;
     cursor: pointer;
 }
 .signup label:hover {
